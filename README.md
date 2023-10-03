@@ -49,7 +49,7 @@ I value your trust in providing us your Personal Information, thus we are strivi
 
 **User Data Deletion**
 
-We respect and value the privacy of our users. Should you wish to request the deletion of any user data that has been collected or stored during your use of our Service, please contact us directly at cj_cguser2222@outlook.jp. Upon receiving your request, we will take appropriate actions to remove your data from our servers within 14 business days.
+I respect and value the privacy of the users. Should you wish to request the deletion of any user data that has been collected or stored during your use of my Service, please contact me directly at cj_cguser2222@outlook.jp. Upon receiving your request, I will take appropriate actions to remove your data from my servers within 14 business days.
 
 **Links to Other Sites**
 
