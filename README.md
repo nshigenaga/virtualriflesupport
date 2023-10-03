@@ -47,6 +47,10 @@ I want to inform users of this Service that these third parties have access to t
 
 I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
+**User Data Deletion**
+
+We respect and value the privacy of our users. Should you wish to request the deletion of any user data that has been collected or stored during your use of our Service, please contact us directly at cj_cguser2222@outlook.jp. Upon receiving your request, we will take appropriate actions to remove your data from our servers within 14 business days.
+
 **Links to Other Sites**
 
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
@@ -59,7 +63,7 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2023-09-26
+This updated policy is effective as of 2023-10-4.
 
 **Contact Us**
 
