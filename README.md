@@ -2,7 +2,7 @@
 
 **Privacy Policy**
 
-Nobuaki Shigenaga built the Virtual Rifle app as a Free app. This SERVICE is provided by Nobuaki Shigenaga at no cost and is intended for use as is.
+Nobuaki Shigenaga built the VirtualRifle app as a Paid app. This SERVICE is provided by Nobuaki Shigenaga and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
